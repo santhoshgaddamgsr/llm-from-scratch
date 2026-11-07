@@ -6,7 +6,7 @@ a GPT trained on tiny Shakespeare, a BPE tokenizer, and a small-scale GPT-2 repr
 This is Phase 1 of my text-to-SQL LLM project.
 
 ## Progress
-- [ ] Setup
+- [x] Setup
 - [ ] Micrograd
 - [ ] PyTorch basics
 - [ ] GPT from scratch
